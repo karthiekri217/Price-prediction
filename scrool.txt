@@ -1,1 +1,4 @@
 helllo how are you
+sugar 400
+pepper 500
+salt 400
